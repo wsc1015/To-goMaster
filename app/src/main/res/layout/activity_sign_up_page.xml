@@ -94,7 +94,6 @@
         android:layout_height="wrap_content"
         android:id="@+id/btn_submitRegister"
         android:layout_gravity="center"
-        android:textSize="12sp"
         android:text="Submit"/>
 
     <Button
@@ -102,7 +101,6 @@
         android:layout_height="wrap_content"
         android:id="@+id/btn_cancelRegister"
         android:layout_gravity="center"
-        android:textSize="12sp"
         android:text="Cancel"/>
 
 </LinearLayout>
